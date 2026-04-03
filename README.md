@@ -7,7 +7,7 @@ Open tools for archiving and distributing Android apps.
 | | |
 |---|---|
 | [**VInstall**](https://github.com/vinstall/vinstall) | Android app for exporting, archiving, and installing APK splits using the APKv format |
-| [**APKv-spec**](https://github.com/vinstall/apkv-spec) | Open specification for the `.apkv` container format |
+| [**APKv-spec**](https://github.com/vinstall/apkv-doc) | Open specification for the `.apkv` container format |
 
 ## APKv Format
 
