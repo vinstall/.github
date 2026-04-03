@@ -11,9 +11,9 @@ We build open tools and specifications for archiving, distributing, and installi
 | | |
 |---|---|
 | [**VInstall**](https://github.com/vinstall/VInstall) | Android app for exporting, archiving, and installing APK splits using the APKv format |
-| [**apkv-spec**](https://github.com/vinstall/apkv-doc) | Open specification for the `.apkv` container format |
+| [**apkv-spec**](https://github.com/vinstall/apkv-spec) | Open specification for the `.apkv` container format |
 
-### 📖 APKv Format
+### 📖 APKV Format
 
 `.apkv` is an open, self-describing container format for Android APK splits.  
 It supports structured metadata, icon embedding, and optional AES-256-CBC encryption.  
